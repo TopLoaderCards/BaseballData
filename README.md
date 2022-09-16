@@ -21,6 +21,10 @@ We also offer PDF checklists that are designed for printing, and can be handy wh
 
 The last feature that is lacking in other data sets is a strict and consistent structure.  This may not matter much to humans who are printing out lists or copying them into spreadsheets, but to an application or database, this is critical.  The schemas are documented across all of the formats, and the data itself is normalized.
 
+# Current Status & Roadmap
+
+This project has just started and we've developed initial version of data schemas and tooling.  We've begun to gather and verify data, and will be publishing data on a roll-forward basis starting with the oldest cards first and eventually catching up to modern ones.  We've elected to do this because modern cards are far more complex, with variants, parralels, subsets, and so on.
+
 # FAQ
 
 1. What about other sports?
